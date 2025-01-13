@@ -1,0 +1,5 @@
+libgl1
+libturbojpeg
+exiftool
+ffmpeg
+libheif-dev
