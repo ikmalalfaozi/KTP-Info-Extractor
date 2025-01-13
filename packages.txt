@@ -1,5 +1,5 @@
 libgl1
-libturbojpeg
+libturbojpeg0
 exiftool
 ffmpeg
 libheif-dev
