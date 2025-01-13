@@ -1,0 +1,6 @@
+.idea
+.venv
+data
+datasets
+ktp
+__pycache__*
